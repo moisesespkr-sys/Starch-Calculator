@@ -1,0 +1,10 @@
+{
+  "name": "Copy of Smurfit Westrock Starch Calculator",
+  "description": "Industrial PWA for PM7 Speed Sizer starch application calculations with history tracking and Excel export.",
+  "short_name": "Starch Calc",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0A2A66",
+  "requestFramePermissions": []
+}
